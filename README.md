@@ -30,8 +30,6 @@ Este projeto é um exercício prático para implantar uma aplicação web simple
    ```bash
    kubectl apply -f nginx-deployment.yaml
    ```
-
-   ```
 3. Verifique se os pods estão em execução:
    ```bash
    kubectl get pods
